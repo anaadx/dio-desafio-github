@@ -1,0 +1,1 @@
+- o git é um é um sistema de controle de versões distribuído.
