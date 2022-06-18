@@ -5,13 +5,13 @@
 	- \nome da pasta: vai para a pasta digitada.
 	- cls: limpa a tela do terminal.
 	- TAB: autocompleta a frase no terminal.
-	- mkdir: cria nova pasta
-	- del: deleta arquivos na pasta
-	- rmdir: remove pasta
+	- mkdir: cria nova pasta.
+	- del: deleta arquivos na pasta.
+	- rmdir: remove pasta.
 
 - principais comandos com o git:
-	- git init: iniciar repositório
-	- git add . / git add *: adicionar modificacoes (enviar para staged)
+	- git init: iniciar repositório.
+	- git add . / git add *: adicionar modificacoes (enviar para staged).
 	- git commit -m "comentario": comentario da modificacao - envia novamente para unmodified.
 	- git status: mostra status atual do repositorio.
 	- git push: envia da maquina para o repositorio.
